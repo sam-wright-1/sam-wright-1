@@ -1,9 +1,7 @@
-### Welcome, I'm Sam, nice to meet you!👋 
+## Welcome, I'm Sam, nice to meet you!👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+### I'm a Husband, Data Engineer, and sports enthusiast ![image](https://user-images.githubusercontent.com/66325781/150657180-2c51c723-ffcb-4e39-a65f-8372a30b0814.png)
 
-## I'm a Husband, Data Engineer, and r!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣

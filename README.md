@@ -37,6 +37,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-wright-1)(https://github.com/anuraghazra/github-readme-stats)
+  ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-wright-1)(https://github.com/sam-wright-1/github-readme-stats)
 </details>
 

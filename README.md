@@ -26,17 +26,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+
 <!--END_SECTION:activity-->
 
 </details>
-
+ <br> 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <a href="https://github.com/sam-wright-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-wright-1&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sam's github stats" /></a> 
 <br>  
 <a href="https://github.com/sam-wright-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-wright-1&theme=dracula&hide_border=true" /></a>
-
+</details>
 

@@ -1,5 +1,5 @@
 ## Welcome, I'm Sam, nice to meet you!👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-wright-1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="sam-wright-1" /> </p>
-
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/samuel-wright)
 
 ### I'm a Husband, Data Engineer, and sports enthusiast⚽
 

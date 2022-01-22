@@ -1,21 +1,21 @@
 ## Welcome, I'm Sam, nice to meet you!👋 
 
-### I'm a Husband, Data Engineer, and sports enthusiast ![image](https://user-images.githubusercontent.com/66325781/150657180-2c51c723-ffcb-4e39-a65f-8372a30b0814.png)
+### I'm a Husband, Data Engineer, and sports enthusiast⚽
 
+- 🔭 I’m currently working on Data Engineering Projects.
+- 🌱 I’m currently learning about Spark, Hadoop, and Kafka.
+- 💬 Ask me about SQL, Python, or anything data related.⚙️
+- 📫 How to reach me: samuel2wright@gmail.com
+- ⚡ Fun fact: I love to read murder mystery books!📗
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/samuel-wright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-wright" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sam-wright-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sam-wright-1" height="30" width="40" /></a>
+<a href="https://kaggle.com/samuelwright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samuelwright" height="30" width="40" /></a>
+<a href="https://fb.com/sam.wright.16503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sam.wright.16503" height="30" width="40" /></a>
+<a href="https://instagram.com/samuel2wright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel2wright" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -74,21 +74,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-<!--
-**sam-wright-1/sam-wright-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center">I'm a Husband, Data Engineer, and sports enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-wright-1&label=Profile%20views&color=0e75b6&style=flat-square" alt="sam-wright-1" /> </p>
 

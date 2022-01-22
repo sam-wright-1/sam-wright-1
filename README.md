@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-wright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-wright" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sam-wright-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sam-wright-1" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13674610/sam-wright-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sam-wright-1" height="30" width="40" /></a>
 <a href="https://kaggle.com/samuelwright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samuelwright" height="30" width="40" /></a>
 <a href="https://fb.com/sam.wright.16503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sam.wright.16503" height="30" width="40" /></a>
 <a href="https://instagram.com/samuel2wright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel2wright" height="30" width="40" /></a>

@@ -37,6 +37,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  ![Sams things]https://github-readme-stats.vercel.app/api?username=sam-wright-1&show_icons=true&theme=dracula
+  ![Description](https://github-readme-stats.vercel.app/api?username=sam-wright-1&show_icons=true&theme=dracula)
 </details>
 

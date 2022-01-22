@@ -35,7 +35,8 @@
 
 </details>
 
-<details>
-<a href="https://github.com/sam-wright-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-wright-1&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sam's github stats" /></a> | <a href="https://github.com/sam-wright-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-wright-1&layout=compact&theme=dracula&hide_border=true" /></a>
-</details>
+<a href="https://github.com/sam-wright-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-wright-1&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sam's github stats" /></a> 
+<br>  
+<a href="https://github.com/sam-wright-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-wright-1&layout=compact&theme=dracula&hide_border=true" /></a>
+
 

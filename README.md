@@ -26,6 +26,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/sam-wright-1/Data_Engineering/pull/2) in [sam-wright-1/Data_Engineering](https://github.com/sam-wright-1/Data_Engineering)
+2. 💪 Opened PR [#2](https://github.com/sam-wright-1/Data_Engineering/pull/2) in [sam-wright-1/Data_Engineering](https://github.com/sam-wright-1/Data_Engineering)
+3. 🎉 Merged PR [#1](https://github.com/sam-wright-1/Data_Engineering/pull/1) in [sam-wright-1/Data_Engineering](https://github.com/sam-wright-1/Data_Engineering)
+4. 💪 Opened PR [#1](https://github.com/sam-wright-1/Data_Engineering/pull/1) in [sam-wright-1/Data_Engineering](https://github.com/sam-wright-1/Data_Engineering)
+<!--END_SECTION:activity-->
  
 
 </details>

@@ -1,4 +1,5 @@
-## Welcome, I'm Sam, nice to meet you!👋 
+## Welcome, I'm Sam, nice to meet you!👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-wright-1&label=Profile%20views&color=0e75b6&style=flat-square" alt="sam-wright-1" /> </p>
+
 
 ### I'm a Husband, Data Engineer, and sports enthusiast⚽
 
@@ -75,12 +76,6 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-wright-1&label=Profile%20views&color=0e75b6&style=flat-square" alt="sam-wright-1" /> </p>
-
-- 💬 Ask me about **SQL, Python, Big Data**
-
-- 📫 How to reach me **samuel2wright@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

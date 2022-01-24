@@ -1,7 +1,7 @@
 ## Welcome, I'm Sam, nice to meet you!👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-wright-1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="sam-wright-1" />  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/samuel-wright)
 </p>
 
-### I'm a Husband, Data Engineer, and sports enthusiast⚽
+### I'm a Data Engineer, Analyst/Scientist, and sports enthusiast⚽
 
 - 🔭 I’m currently working on Data Engineering Projects.
 - 🌱 I’m currently learning about Spark, Hadoop, and Kafka.

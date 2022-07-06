@@ -4,7 +4,7 @@
 ### I'm a Data Engineer, Analyst/Scientist, and sports enthusiast⚽
 
 - 🔭 I’m currently working on Data Engineering Projects.
-- 🌱 I’m currently learning about Spark, Hadoop, and Kafka.
+- 🌱 I’m currently learning about Prefect/Airflow, Spark, and Kafka.
 - 💬 Ask me about SQL, Python, or anything data related.⚙️
 - 📫 How to reach me: samuel2wright@gmail.com
 - ⚡ Fun fact: I love to read murder mystery books!📗

@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://snowflake.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a> 
-    <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/tree/main/svg/airflow.svg" alt="airflow" width="40" height="40"/> </a> 
+    <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/svg/airflow.svg" alt="airflow" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.getdbt.com" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/dbt.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 

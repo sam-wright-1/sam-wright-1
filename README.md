@@ -22,10 +22,13 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://snowflake.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a> 
-    <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/airflow.svg" alt="airflow" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/aws.png" alt="aws" width="40" height="40"/> </a> 
-   <a href="https://www.getdbt.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/dbt.png" alt="dbt" width="40" height="40"/> </a> 
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/terraform.png" alt="Terraform" width="40" height="40"/> </a> 
+  <a href="www.google.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/gbq.png" alt="GBQ" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/aws_new.jpg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/airflow.svg" alt="airflow" width="40" height="40"/> </a> 
+  <a href="https://www.getdbt.com" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/dbt.png" alt="dbt" width="40" height="40"/> </a> 
+  <a href="https://www.apache.spark.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/spark.png" alt="Spark" width="60" height="40"/> </a> 
+  <a href="https://www.apache.kafka.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/kafka.png" alt="Kafka" width="40" height="40"/> </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/sam-wright-1/sam-wright-1/blob/main/svg/terraform.png" alt="Terraform" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
